@@ -1,5 +1,5 @@
 # Practica-19
-Script per filtrar IP i donar la seva lcoalització.
+Script per filtrar IP i donar la seva localització.
 
 Usage -> ./P19.sh syslog_sample
           
